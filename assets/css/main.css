@@ -1,0 +1,25 @@
+html,
+body {
+	background-color:#808080;
+}
+#main-name h1 {
+	margin:0;
+}
+#main-name h1 a {
+	bottom: 10px;
+	display: block;
+	height: 100px;
+	left: 190px;
+	overflow:hidden;
+	position: absolute;
+	text-indent:-999em;
+	width: 790px;
+}
+#wrapper {
+	background: url('/assets/images/sh-website.jpg') no-repeat top center;
+	height:577px;
+	margin:auto;
+	position:relative;
+	top:0;
+	width:1167px;
+}
