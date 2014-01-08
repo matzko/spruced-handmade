@@ -21,6 +21,17 @@
 			<header itemscope itemtype="http://schema.org/Organization" id="main-name">
 				<h1 itemprop="name"><a href="/">spruced handmade</a></h1>
 			</header>
+
+			<div itemscope itemtype="http://schema.org/CreativeWork" id="tree-pendant">
+				<h2 itemprop="name">Tree pendant</h2>
+			</div>
+			<div itemscope itemtype="http://schema.org/ItemList" class="featured-links">
+				<ul>
+					<li><a href="https://www.etsy.com/shop/SprucedHandmade">on Etsy</a></li>
+					<li><a href="https://www.facebook.com/SprucedHandmade">on Facebook</a></li>
+					<li><a href="https://www.facebook.com/homegrownsilverandstone">in Chattanooga</a></li>
+				</ul>
+			</div>
 		</section><!-- #wrapper -->
 		<footer>
 		</footer>
