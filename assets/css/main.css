@@ -76,8 +76,9 @@ body {
 }
 .featured-links ul {
 	list-style-type:none;
+  margin:auto;
 	padding:0;
-	width:100%;
+	width:50%;
 }
 .featured-links li {
 	display: block;
