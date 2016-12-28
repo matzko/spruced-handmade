@@ -41,7 +41,7 @@ body {
 	margin:0;
 }
 #main-name h1 a {
-	bottom: 10px;
+	bottom: 40px;
 	display: block;
 	height: 100px;
 	left: 190px;
@@ -60,6 +60,7 @@ body {
 	width:1167px;
 }
 #packaging {
+  height:550px;
 	padding-top:35px;
 }
 #packaging h2 {
@@ -71,20 +72,26 @@ body {
 	width:760px;
 }
 .featured-links {
-	margin-top:160px;
 	text-transform:lowercase;
 }
 .featured-links ul {
+  display:table;
 	list-style-type:none;
   margin:auto;
 	padding:0;
-	width:50%;
 }
 .featured-links li {
-	display: block;
-	float: left;
+	display: table-cell;
+  padding:0 .5em;
+  position:relative;
 	text-align: center;
-	width: 50%;
+}
+.featured-links li:last-child:before {
+  content:'\00B7';
+  font-weight: bold;
+  left: -0.1em;
+  position: absolute;
+  top: 0.1em;
 }
 .featured-links a {
 	color:#000;
