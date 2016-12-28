@@ -59,16 +59,16 @@ body {
 	top:0;
 	width:1167px;
 }
-#tree-pendant {
+#packaging {
 	padding-top:35px;
 }
-#tree-pendant h2 {
-	background: url('/assets/images/TreePendant.JPG') no-repeat top center;
-	height:400px;
+#packaging h2 {
+	background: url('/assets/images/Packaging.jpg') no-repeat top center;
+	height:468px;
 	margin:auto;
 	overflow:hidden;
 	text-indent:-999em;
-	width:600px;
+	width:760px;
 }
 .featured-links {
 	margin-top:160px;

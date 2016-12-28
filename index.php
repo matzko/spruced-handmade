@@ -22,8 +22,8 @@
 				<h1 itemprop="name"><a href="/">spruced handmade</a></h1>
 			</header>
 
-			<div itemscope itemtype="http://schema.org/CreativeWork" id="tree-pendant">
-				<h2 itemprop="name">Tree pendant</h2>
+			<div itemscope itemtype="http://schema.org/CreativeWork" id="packaging">
+				<h2 itemprop="name">sprucedhandmade</h2>
 			</div>
 			<div itemscope itemtype="http://schema.org/ItemList" class="featured-links">
 				<ul>
