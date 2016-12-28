@@ -52,8 +52,9 @@ body {
 }
 #wrapper {
 	background: url('/assets/images/sh-website.jpg') no-repeat top center;
+  border-top:5px solid #4c4950;
 	min-height:577px;
-	margin:auto;
+	margin:2em auto auto;
 	position:relative;
 	top:0;
 	width:1167px;
