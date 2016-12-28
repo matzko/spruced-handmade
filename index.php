@@ -27,8 +27,8 @@
 			</div>
 			<div itemscope itemtype="http://schema.org/ItemList" class="featured-links">
 				<ul>
-					<li><a href="https://www.etsy.com/shop/SprucedHandmade">on Etsy</a></li>
-					<li><a href="https://www.facebook.com/SprucedHandmade">on Facebook</a></li>
+					<li><a href="https://www.etsy.com/shop/SprucedHandmade">Shop</a></li>
+					<li><a href="https://www.facebook.com/SprucedHandmade">Facebook</a></li>
 				</ul>
 			</div>
 		</section><!-- #wrapper -->
